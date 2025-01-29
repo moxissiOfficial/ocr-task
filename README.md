@@ -29,7 +29,7 @@ To support other languages, download the corresponding models from Tesseract OCR
 [Tesseract OCR.](https://github.com/tesseract-ocr/tessdata)
 
 ## 📝 **Output Format**
-If the input file is a PDF, the output will be a JSON object with the extracted data.
+The output will be a JSON object with the extracted data.
 ```
 {
   "name": "Company ABC",
